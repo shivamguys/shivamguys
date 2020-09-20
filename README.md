@@ -9,8 +9,13 @@
 [linkedin]: https://www.linkedin.com/in/iamshivampandey/
 
 
+
 <br />	
 <br />	
+
+### About me:
+#### Passionate About Entrepreneurship And ❤️ Solving Problems.
+
 
 ### Most used languages	
 <img align="left" alt="status" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamguys&layout=compact" />
@@ -44,7 +49,7 @@
 
 
 
-### My Sweet ❤️ Baby:
+### My Sweet ❤️ Baby :
 [<img align="left" alt="linkedin" width="300px" src="https://yesteacher.app/assets/yesteacherlanding/yesteacher.png" />][yesteacher]
 
 [yesteacher]: https://yesteacher.app
