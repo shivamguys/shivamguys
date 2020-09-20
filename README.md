@@ -34,6 +34,10 @@
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" /></code>
+<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" /></code>
+<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" /></code>
+
+
 
 
 
