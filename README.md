@@ -31,6 +31,11 @@
 <br />	
 <br />	
 
+
+### Developer Skills	
+<img align="left" width="500px" alt="status" display="block" src="https://quickchart.io/chart?bkg=white&c={%20type:%20%27bar%27,%20data:%20{%20labels:%20[%27VueJs%27,%20%27Python%27,%20%27DevOps%27,%20%27Flask%27,%27Data%20Architect%27,%27Javascript%27,%27UX%20Developer%27],%20datasets:%20[{%20label:%20%27Developer%20Skills%27,%20data:%20[80,%20100,%2075,%2080,80,85,80],%20backgroundColor:%20%27orange%27,%20}]%20},%20options:%20{%20title:%20{%20display:%20true,%20text:%20%27Shivam%20Pandey%20:-)%27,%20fontColor:%20%27orange%27,%20fontSize:%2032,%20}},}" />
+
+
 ### Skills:
 
 <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
