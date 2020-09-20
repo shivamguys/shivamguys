@@ -31,6 +31,12 @@
 <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></code>
+<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" /></code>
+<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" /></code>
+<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" /></code>
+
+
+
 
 
 
