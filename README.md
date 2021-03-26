@@ -54,10 +54,6 @@
 
 
 
-### My Sweet ❤️ Baby :
-[<img align="left" alt="linkedin" width="300px" src="https://yesteacher.app/assets/yesteacherlanding/yesteacher.png" />][yesteacher]
-
-[yesteacher]: https://yesteacher.app
 
 
 
