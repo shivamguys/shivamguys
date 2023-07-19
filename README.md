@@ -1,6 +1,6 @@
 ## Hi  <img src="https://github.com/Yeroshenko/Yeroshenko/blob/master/Hi.gif" width="29px">  Folks Great To See You Here.
 
-<img src="https://gpvc.arturio.dev/shivamguys" alt="profile views">  
+<img src="https://komarev.com/ghpvc/?username=shivamguys" alt="profile views">  
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
