@@ -1,4 +1,4 @@
-![image](https://github.com/shivamguys/shivamguys/assets/25263989/a2c77eb1-1e35-4d71-b741-09f7adf29580)## Hi👋<img src="https://github.com/Yeroshenko/Yeroshenko/blob/master/Hi.gif" width="29px">  Folks Great To See You Here.
+## Hi👋<img src="https://github.com/Yeroshenko/Yeroshenko/blob/master/Hi.gif" width="29px">  Folks Great To See You Here.
 
 <img src="https://komarev.com/ghpvc/?username=shivamguys" alt="profile views">  
 
