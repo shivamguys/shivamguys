@@ -1,4 +1,4 @@
-## Hi👋<img src="https://github.com/Yeroshenko/Yeroshenko/blob/master/Hi.gif" width="29px">  Folks Great To See You Here.
+![image](https://github.com/shivamguys/shivamguys/assets/25263989/a2c77eb1-1e35-4d71-b741-09f7adf29580)## Hi👋<img src="https://github.com/Yeroshenko/Yeroshenko/blob/master/Hi.gif" width="29px">  Folks Great To See You Here.
 
 <img src="https://komarev.com/ghpvc/?username=shivamguys" alt="profile views">  
 
@@ -45,7 +45,7 @@
 <code><img alt="VUE" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" /></code>
 <code><img alt="FLASK" width="40px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" /></code>
 <code><img alt="AWS" width="40px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" /></code>
-<code><img alt="MYSQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" /></code>
+<code><img alt="MYSQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" /></code>
 <code><img alt="LINUX" width="40px" src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" /></code>
 
 
