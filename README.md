@@ -38,7 +38,7 @@
 
 ### Skills:
 
-<code><img alt="Cypress" width="90px" src="https://www.cypress.io/images/layouts/navbar-brand.svg" /></code>
+<code><img alt="Cypress" width="90px" src="https://i.imgur.com/08IYccd.png" /></code>
 <code><img alt="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="PYTHON" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></code>
