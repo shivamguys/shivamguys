@@ -42,7 +42,7 @@
 <code><img alt="JavaScript" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" /></code>
 <code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="PYTHON" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></code>
-<code><img alt="VUE" width="40px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" /></code>
+<code><img alt="VUE" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" /></code>
 <code><img alt="FLASK" width="40px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" /></code>
 <code><img alt="AWS" width="40px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" /></code>
 <code><img alt="MYSQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" /></code>
