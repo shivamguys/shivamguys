@@ -4,6 +4,8 @@
 
 ### Connect with me:
 [<img align="left" alt="linkedin" width="72px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shivamguys)
+
 
 
 [linkedin]: https://www.linkedin.com/in/iamshivampandey/
@@ -14,8 +16,11 @@
 <br />	
 
 ### About me:
-#### Passionate About Entrepreneurship And ❤️ Solving Problems.
-
+> Passionate About Entrepreneurship And ❤️ Solving Problems.
+>
+> 
+> Professional development experience in the Fintech Industry, System Building,
+>  API Development, Backend Development, FrontEnd Development, PWA’s, Scalable Codes
 
 ### Most used languages	
 <img align="left" alt="status" display="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamguys&layout=compact" />
