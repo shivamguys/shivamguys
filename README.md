@@ -7,7 +7,6 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shivamguys)
 
 
-
 [linkedin]: https://www.linkedin.com/in/iamshivampandey/
 
 
@@ -65,7 +64,7 @@
 <a href="http://www.github.com/shivamguys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamguys&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
+[!["Buy Me A Coffee"](https://media4.giphy.com/media/513lZvPf6khjIQFibF/giphy.gif?cid=ecf05e471bqpun41veurzmav0lht4io0e2nebxmsteakkmy2&ep=v1_gifs_related&rid=giphy.gif&ct=s)](https://www.buymeacoffee.com/shivamguys)
 
 
 
